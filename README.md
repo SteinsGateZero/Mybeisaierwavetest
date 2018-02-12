@@ -1,0 +1,1 @@
+波浪效果实现，WaveBezierView通过贝塞尔曲线实现，WaveFunctionView通过正余弦函数实现
